@@ -1,1 +1,1 @@
-# animal-silhouette picture data for GAN 
+# Animal-silhouette picture data for GAN 
